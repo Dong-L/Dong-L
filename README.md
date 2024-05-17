@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 From LinkedIn
 -->
 
-I'm a software engineer who enjoys learning and improving as much as accomplishing goals. I enjoy running, lifting, and playing basketball in my free time.
+My name is Dong, and I'm a software engineer who enjoys learning and improving as much as accomplishing goals. I enjoy running, lifting, and playing basketball in my free time.
