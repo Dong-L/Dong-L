@@ -22,4 +22,4 @@ Welcome to my page! My name is Duncan. I'm a software engineer who enjoys learni
 
 🎈Fun Fact: My username is a play on my Korean name, Dong, and the word "dongle". Because I like to form connections, of course.
 
-You can find me on LinkedIn at www.linkedin.com/in/duncan-g-lee. Happy coding!
+You can find me on LinkedIn at https://www.linkedin.com/in/duncan-g-lee/. Happy coding!
