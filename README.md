@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, there 👋
 
 <!--
 **Dong-L/Dong-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,10 @@ Here are some ideas to get you started:
 From LinkedIn
 -->
 
-My name is Dong, and I'm a software engineer who enjoys learning and improving as much as accomplishing goals. I enjoy running, lifting, and playing basketball in my free time.
+Welcome to my page! My name is Duncan. I'm a software engineer who enjoys learning and improving as much as accomplishing goals, if not more.
+
+🔭 I’m currently working on a productivity app that helps you organize your time and your tasks in a unique and addicting way. Keeping it vague for now to maintain the surprise.
+
+🎈Fun Fact: My username is a play on my Korean name, Dong, and the word "dongle". Because I like to form connections, of course.
+
+You can find me on LinkedIn at www.linkedin.com/in/duncan-g-lee. Happy coding!
