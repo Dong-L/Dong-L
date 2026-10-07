@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 From LinkedIn
 -->
 
-Welcome to my page! My name is Duncan. I'm a software engineer who enjoys learning and improving as much as accomplishing goals, if not more.
+Welcome to my page! My name is Dong. I'm a software engineer who enjoys learning and improving as much as accomplishing goals, if not more.
 
 🔭 I’m currently working on a productivity app that helps you organize your time and your tasks in a unique and addicting way. Keeping it vague for now to maintain the surprise.
 
