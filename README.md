@@ -20,6 +20,6 @@ Welcome to my page! My name is Dong. I'm a software engineer who enjoys learning
 
 🔭 I’m currently working on a productivity app that helps you organize your time and your tasks in a unique and addicting way. Keeping it vague for now to maintain the surprise.
 
-🎈Fun Fact: My username is a play on my Korean name, Dong, and the word "dongle". Because I like to form connections, of course.
+🎈Fun Fact: My username is a play on my name, Dong, and the word "dongle". Because I like to form connections, of course.
 
 You can find me on LinkedIn at https://www.linkedin.com/in/dong--lee/. Happy coding!
